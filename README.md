@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @Shivaay044
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning Web-Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React project 
 - 📫 Reach me at Shivendrapaliwal99990@gmail.com 
 
 <!---
