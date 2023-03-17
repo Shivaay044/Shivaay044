@@ -19,7 +19,7 @@
 </br>
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivaay044" alt="shivaay044" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivaay044" alt="Shivaay044" /></a> </p>
 
 </br>
 </br>
@@ -41,13 +41,13 @@
 </br>
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaay044&show_icons=true&locale=en&layout=compact" alt="shivaay044" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivaay044&show_icons=true&locale=en&layout=compact" alt="Shivaay044" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivaay044&show_icons=true&locale=en" alt="shivaay044" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivaay044&show_icons=true&locale=en" alt="Shivaay044" /></p>
 
 </br>
 </br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaay044&" alt="shivaay044" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaay044&" alt="Shivaay044" /></p>
 
