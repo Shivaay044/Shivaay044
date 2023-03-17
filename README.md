@@ -19,7 +19,7 @@
 </br>
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivendra-singh044" alt="shivendra-singh044" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivaay044" alt="shivaay044" /></a> </p>
 
 </br>
 </br>
