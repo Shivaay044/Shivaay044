@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 Visit **[My personal site](https://shivendra-singh044.github.io/)** 
+- 👨‍💻 Visit **[My personal site](https://shivaay044.github.io/)** 
 
 - 💬 Ask me about **React releated projects**
 
@@ -41,13 +41,13 @@
 </br>
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivendra-singh044&show_icons=true&locale=en&layout=compact" alt="shivendra-singh044" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaay044&show_icons=true&locale=en&layout=compact" alt="shivaay044" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivendra-singh044&show_icons=true&locale=en" alt="shivendra-singh044" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivaay044&show_icons=true&locale=en" alt="shivaay044" /></p>
 
 </br>
 </br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivendra-singh044&" alt="shivendra-singh044" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaay044&" alt="shivaay044" /></p>
 
